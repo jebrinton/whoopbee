@@ -1,0 +1,15 @@
+# Private state: API keys, the WHOOP refresh token, sleep data, logs, caches
+data/
+config.json
+*.log
+# Pre-git backups
+archive/
+*.bak-*
+# Python, macOS, Xcode
+__pycache__/
+*.pyc
+.DS_Store
+WhoopWidget/build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
